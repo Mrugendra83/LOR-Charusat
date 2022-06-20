@@ -1,5 +1,10 @@
 # LOR-Charusat
 ### Automating the process of Letter of Recommendation for CHARUSAT
+LOR Charusat
+- Open Source project which digitizes the process of Letter of Recommendation.
+- It reduces student activity for LOR on campus by 70% and is scaled to a university
+level for more than 2000 students.
+- Tech Stack: React, MySQL, Express, NodeJS, GraphQL
 
 <img src="https://github.com/AKSHIT989/LOR-Charusat/blob/main/assets/LOR-Request%20page.png" width="100%"></h2>
 
